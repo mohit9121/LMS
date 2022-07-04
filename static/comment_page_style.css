@@ -1,0 +1,18 @@
+body {
+    background-color: #001440;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    margin-top: 30%;
+    width: 600px;
+    height: 300px;
+}
+
+.btn.btn-outline-warning {
+    display: block;
+    font-size: xx-large;
+}

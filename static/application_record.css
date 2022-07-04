@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+}
+body {
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    background: linear-gradient(to right, #457fca, #5691c8);
+}
+h2 {
+    color:  rgb(2, 247, 255);
+    text-align: center;
+}
+.highlights {
+    color: rgb(157, 255, 0);
+}
+
+.chunk {
+    padding: 5px 5px 5px 5px;
+    margin: 10px auto;
+    width: 1000px;
+    border-radius: 10px;
+    border-bottom: 5px solid rgb(65, 57, 57);
+}
+.btn.btn-outline-light {
+    margin-top: 20px;
+    margin-left: 600px;
+    font-size: xx-large;
+}
+.chunk:hover {
+    box-shadow:  10px 20px 20px #35a7e9;
+}

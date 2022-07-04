@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+}
+body {
+    color: white;
+    font-size: x-large;
+    background: linear-gradient(to right, #457fca, #5691c8);
+}
+.date-picker {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+
+}
+#t1 {
+    margin: auto;
+    margin-top: 40px;
+    width: 500px;
+    height: 300px;
+}
+h1 {
+    text-align: center;
+    margin: 60px auto;
+}
+label {
+    margin: 5px 5px;
+}
+input {
+    margin: 8px 8px 8px 8px;
+    padding: 2px 2px 2px 9px;
+}
+input:hover {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+textarea:hover {
+    border: 2px solid rgb(0, 0, 0);
+}
+.btn.btn-outline-light {
+    width: 100px;
+    font-size: x-large;
+    margin: 10px auto;
+    margin-left: 400px;
+}
